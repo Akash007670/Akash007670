@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India. I consider myself as a fast learner. I am experienced in C++ , Javascript , Python , Web-Development and Frontend Development. I also love competitive programming . Beside i also love to play football.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash007670&label=Profile%20views&color=0e75b6&style=flat" alt="akash007670" /> </p>
 
 
 
-- 🔭 I’m currently working on **Lyrics Finder App**
+
 
 - 🌱 I’m currently learning **React.js**
 
