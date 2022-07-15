@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
-<h3 align="center">A passionate Frontend Developer from India. I consider myself as a fast learner. I am experienced in C++ , Javascript , Python , Web-Development and Frontend Development. I also love competitive programming . Beside i also love to play football.</h3>
+<h3 align="center">Experienced Frontend Engineer with a demonstrated history of working in the cyber security industry. Skilled in React JS, Node JS, Postman, Figma and MongoDB, Strong engineering professional with a Bachelor's degree focused in Computer Engineering from Lovely Professional University.</h3>
 
 
 
